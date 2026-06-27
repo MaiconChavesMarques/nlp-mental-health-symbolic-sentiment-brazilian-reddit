@@ -73,7 +73,7 @@ Os dados processados estão disponíveis via Google Drive e são baixados automa
 ```
 .
 ├── PLN_Trabalho_01.ipynb   # Notebook principal com todo o pipeline
-└── Relatorio.pdf           # Relatório completo do projeto
+└── Relatório.pdf           # Relatório completo do projeto
 ```
 
 ---
